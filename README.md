@@ -105,10 +105,10 @@
                     <h3 class="text-xl font-bold mb-2">Lumii</h3>
                     <p class="text-slate-500 text-sm mb-4 italic">学習支援AIアシスタント</p>
                     <p class="text-slate-600 text-sm leading-relaxed mb-6">
-                        生成AIを活用し、生徒の学習過程を見つけるツール。生徒の「関心」を見つけ出し、教師の負担軽減と学習効果の向上を両立します。https://lumii-light-guide.lovable.app/
+                        生成AIを活用し、生徒の学習過程を見守るツール。生徒の「関心」を見つけ出し、教師の負担軽減と学習効果の向上を両立します。https://lumii-light-guide.lovable.app/
                     </p>
                     <ul class="text-xs text-slate-400 space-y-2">
-                        <li>・現在企画中</li〉
+                        <li>・現在企画中</li>
                     </ul>
                 </div>
             </div>
