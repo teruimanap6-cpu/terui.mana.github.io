@@ -30,7 +30,7 @@
         <div class="max-w-4xl mx-auto text-center">
             <span class="inline-block px-4 py-1.5 mb-6 text-xs font-semibold tracking-widest text-pink-600 uppercase bg-pink-100 rounded-full">Educational Support</span>
             <h1 class="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-                個々の探究心に、<br class="md:hidden">プロの伴走を。
+                学ぶ楽しさを、<br class="md:hidden">すべての子どもに。
             </h1>
             <p class="text-lg text-slate-600 mb-8 max-w-2xl mx-auto leading-relaxed">
                 東北大学教育学部での学びと起業経験を活かし、中高生の「やりたい」を形にする探究学習支援を行っています。
@@ -53,18 +53,18 @@
                     <h2 class="text-3xl font-bold mb-2">照井 茉奈 <span class="text-lg font-normal text-slate-400 ml-2">Mana Terui</span></h2>
                     <p class="text-pink-500 font-bold mb-4">macaron 代表 / ピュアプル 代表</p>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        東北大学教育学部在籍。教育心理学・学習科学を専攻。
+                        東北大学教育学部在籍。教育評価・学習科学を専攻。
                         高校時代の経験から、学校教育における「探究学習」の質の向上と、生徒一人ひとりの興味関心に寄り添う環境の必要性を感じ、個人事業「macaron」を開業。
                         ビジネスコンテストでの受賞を機に、伴走型学習支援プロジェクト「ピュアプル」を立ち上げ。
                     </p>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
                         <div class="flex items-center space-x-2">
                             <div class="w-2 h-2 bg-pink-400 rounded-full"></div>
-                            <span>教育学部 専門知見</span>
+                            <span>教育学部 教育評価研究</span>
                         </div>
                         <div class="flex items-center space-x-2">
                             <div class="w-2 h-2 bg-pink-400 rounded-full"></div>
-                            <span>学習支援AI「Lumii」運営</span>
+                            <span>学習支援AI「Lumii」企画</span>
                         </div>
                     </div>
                 </div>
@@ -105,12 +105,10 @@
                     <h3 class="text-xl font-bold mb-2">Lumii</h3>
                     <p class="text-slate-500 text-sm mb-4 italic">学習支援AIアシスタント</p>
                     <p class="text-slate-600 text-sm leading-relaxed mb-6">
-                        生成AIを活用し、生徒の問いを引き出す対話型学習ツール。24時間、生徒の「知りたい」に寄り添い、教師の負担軽減と学習効果の向上を両立します。
+                        生成AIを活用し、生徒の学習過程を見つけるツール。生徒の「関心」を見つけ出し、教師の負担軽減と学習効果の向上を両立します。https://lumii-light-guide.lovable.app/
                     </p>
                     <ul class="text-xs text-slate-400 space-y-2">
-                        <li>・対話型AIによるリサーチ支援</li>
-                        <li>・探究の進捗管理機能</li>
-                        <li>・専門家データベース連携</li>
+                        <li>・現在企画中</li〉
                     </ul>
                 </div>
             </div>
@@ -124,7 +122,7 @@
             <p class="mb-8 text-slate-400">講演・ワークショップ・伴走支援のご依頼など、お気軽にご連絡ください。</p>
             <div class="inline-block bg-slate-800 p-6 rounded-2xl border border-slate-700">
                 <p class="text-sm text-slate-400 mb-2">Email</p>
-                <p class="text-lg font-bold">your-email@example.com</p>
+                <p class="text-lg font-bold">terui.mana.p6@dc.tohoku.ac.jp</p>
                 <p class="text-xs text-slate-500 mt-4">個人事業主：macaron 照井 茉奈</p>
             </div>
             <div class="mt-12 pt-8 border-t border-slate-800 text-slate-500 text-xs">
